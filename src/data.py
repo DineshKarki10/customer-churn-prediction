@@ -1,6 +1,5 @@
 import os
 import pandas as pd
-from pathlib import Path
 
 def load_raw_data(file_path: str) -> pd.DataFrame:
     # Load raw CSV data from disk.
