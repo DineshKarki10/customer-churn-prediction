@@ -67,10 +67,10 @@ python -m venv .venv
 ```
 
 2. Activate the virtual environment:
-- On Windows 
-.venv\Scripts\Activate.ps1
+- On Windows: 
+.venv\Scripts\Activate
 
-- On Mac/Linux
+- On Mac/Linux: 
 source .venv/bin/activate
 
 3. Install dependencies:
